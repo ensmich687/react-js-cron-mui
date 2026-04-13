@@ -11,7 +11,7 @@ Live **demo** and **usage** at [https://levyitay.github.io/react-js-cron/](https
 
 ## Features
 
-- Zero dependencies except React and Material-UI
+- Zero dependencies except React and Material UI
 - Supports all standard cron expressions
 - Supports cron names for months and week days
 - Supports cron shortcuts
@@ -29,9 +29,9 @@ Live **demo** and **usage** at [https://levyitay.github.io/react-js-cron/](https
 ## Installation
 
 Be sure that you have these dependencies on your project:
-* react (>=16.8.0)
-* material-ui (>=4.0.0)
-* fontsource-roboto
+* react (>=17.0.0)
+* @mui/material (>=5.0.0)
+* @fontsource/roboto (^5.0.0)
 
 ```bash
 # Yarn
